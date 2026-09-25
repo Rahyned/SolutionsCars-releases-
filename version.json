@@ -1,0 +1,6 @@
+{
+  "version": "2.3.0",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.0/SolutionsCars_Setup_2.3.0.exe",
+  "sha256": "a43ef1e230c1eca6ff6f0086e075a85407c87632ec5505b406a390a2903d6709",
+  "notas": "Release 2.3.0: instalador sin DB empaquetada, backup a Google Drive, tablas responsive"
+}
