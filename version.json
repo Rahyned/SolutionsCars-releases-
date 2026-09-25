@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.1/SolutionsCars_Setup_2.3.1.exe",
-  "sha256": "a84481cf7d5976a8ce7422157fe648c33e55ab0d0fcb44088d69dec585efe8bd",
-  "notas": "Release 2.3.1: incluye updater en-app (check de version.json + descarga con SHA-256 e instalación silenciosa)"
+  "version": "2.3.2",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.2/SolutionsCars_Setup_2.3.2.exe",
+  "sha256": "f53c8b749e335023f8d83685fe673c05465e9449e59d08781d2a2d3ef942e435",
+  "notas": "Release 2.3.2: toggle Producción/Homologación en Configuración, chip de modo AFIP en Facturación, script configurar_afip para despliegue, fix certificados en {app}"
 }
