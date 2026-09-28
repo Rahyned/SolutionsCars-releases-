@@ -1,6 +1,6 @@
 {
-  "version": "2.3.4",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.4/SolutionsCars_Setup_2.3.4.exe",
-  "sha256": "a9e3a9b8eaf954f97bcd42453a82c7021f5b2c287e97925a5c6110f754563542",
-  "notas": "Hotfix emisión AFIP (Flet 0.26), pendientes y build frozen."
+  "version": "2.3.6",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.6/SolutionsCars_Setup_2.3.6.exe",
+  "sha256": "ac1b006b1f626ffdb4bbb688d11310216b4d71e04f10cc75daaff089a28c68a5",
+  "notas": "Fix actualización automática, layout 1360×768 y UX del instalador."
 }
