@@ -1,6 +1,6 @@
 {
-  "version": "2.3.10",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.10/SolutionsCars_Setup_2.3.10.exe",
-  "sha256": "8de632d9e312409b95648df51b0cc997c40adc33fd85e1dc210063f9d8b67732",
-  "notas": "Facturacion AFIP: pendientes visibles, verificar/anular, rechazo y banner 2.3.10"
+  "version": "2.3.11",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.11/SolutionsCars_Setup_2.3.11.exe",
+  "sha256": "b4175c38d2abf793cc3e2573f3b6f47dcb6c0b619e523c66a2d1d87c47ca6e41",
+  "notas": "Factura A fiscal; fix buscador lista de precios"
 }
