@@ -1,6 +1,6 @@
 {
-  "version": "2.3.6",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.6/SolutionsCars_Setup_2.3.6.exe",
-  "sha256": "ac1b006b1f626ffdb4bbb688d11310216b4d71e04f10cc75daaff089a28c68a5",
-  "notas": "Fix actualización automática, layout 1360×768 y UX del instalador."
+  "version": "2.3.10",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.10/SolutionsCars_Setup_2.3.10.exe",
+  "sha256": "8de632d9e312409b95648df51b0cc997c40adc33fd85e1dc210063f9d8b67732",
+  "notas": "Facturacion AFIP: pendientes visibles, verificar/anular, rechazo y banner 2.3.10"
 }
