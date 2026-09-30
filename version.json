@@ -1,6 +1,6 @@
 {
-  "version": "2.3.11",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.11/SolutionsCars_Setup_2.3.11.exe",
-  "sha256": "b4175c38d2abf793cc3e2573f3b6f47dcb6c0b619e523c66a2d1d87c47ca6e41",
-  "notas": "Factura A fiscal; fix buscador lista de precios"
+  "version": "2.3.12",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.12/SolutionsCars_Setup_2.3.12.exe",
+  "sha256": "6e504c04d36f5fb5b7fff7a0d29cac814e8d5a66bbdcb7d78ec49141b479ba69",
+  "notas": "Fix: actualizacion desde Configuracion (cmd start con argumentos separados)."
 }
