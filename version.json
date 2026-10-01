@@ -1,6 +1,6 @@
 {
-  "version": "2.3.13",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.13/SolutionsCars_Setup_2.3.13.exe",
-  "sha256": "685d7aa7f854fb05c40d0490d3ffb43df9d6385e21dc9c54de75789fbeb32cd3",
-  "notas": "..."
+  "version": "2.3.14",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.14/SolutionsCars_Setup_2.3.14.exe",
+  "sha256": "232de4776cbae88b37dd0641d048608710d04402b525154ffad59d34263e95f6",
+  "notas": "Fix actualizacion automatica. Items libres, PDF ARCA, aviso cert AFIP."
 }
