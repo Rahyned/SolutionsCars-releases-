@@ -1,6 +1,6 @@
 {
-  "version": "2.3.12",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.12/SolutionsCars_Setup_2.3.12.exe",
-  "sha256": "6e504c04d36f5fb5b7fff7a0d29cac814e8d5a66bbdcb7d78ec49141b479ba69",
-  "notas": "Fix: actualizacion desde Configuracion (cmd start con argumentos separados)."
+  "version": "2.3.13",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.13/SolutionsCars_Setup_2.3.13.exe",
+  "sha256": "685d7aa7f854fb05c40d0490d3ffb43df9d6385e21dc9c54de75789fbeb32cd3",
+  "notas": "Items libres, PDF ARCA, config fiscal."
 }
