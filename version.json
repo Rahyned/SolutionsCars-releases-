@@ -1,6 +1,6 @@
 {
-  "version": "2.3.14",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.14/SolutionsCars_Setup_2.3.14.exe",
-  "sha256": "232de4776cbae88b37dd0641d048608710d04402b525154ffad59d34263e95f6",
-  "notas": "Fix actualizacion automatica. Items libres, PDF ARCA, aviso cert AFIP."
+  "version": "2.3.15",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.15/SolutionsCars_Setup_2.3.15.exe",
+  "sha256": "4047993f5107d85d3de3df379896cb80dadc1a1862fa254eac0a50179ddee003",
+  "notas": "Factura B con precio final (IVA incluido) y pie fiscal al fondo de la hoja A4."
 }
