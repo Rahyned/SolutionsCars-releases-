@@ -1,6 +1,6 @@
 {
-  "version": "2.3.16",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.16/SolutionsCars_Setup_2.3.16.exe",
-  "sha256": "e10630d74520d23d84c5c33d2d7b951ab73aef55e9ad37233d486f7934e4d110",
-  "notas": "Al actualizar desde Configuración, la app se cierra, instala y se vuelve a abrir. Al iniciar dice si la versión quedó instalada."
+  "version": "2.3.17",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.17/SolutionsCars_Setup_2.3.17.exe",
+  "sha256": "e4c240d0a32faa9ec6678123c93cc0451f1f693027fb38bfae736143a8984892",
+  "notas": "Factura con la hoja de ARCA: letra, QR, CAE en 12 puntos y vista previa antes de guardar."
 }
