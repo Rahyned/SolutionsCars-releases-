@@ -1,6 +1,6 @@
 {
-  "version": "2.3.17",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.17/SolutionsCars_Setup_2.3.17.exe",
-  "sha256": "e4c240d0a32faa9ec6678123c93cc0451f1f693027fb38bfae736143a8984892",
-  "notas": "Factura con la hoja de ARCA: letra, QR, CAE en 12 puntos y vista previa antes de guardar."
+  "version": "2.3.18",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.18/SolutionsCars_Setup_2.3.18.exe",
+  "sha256": "a88c389b122d6492e9cd8dd2cf898c4c45f1fc258caddab45b882a6dfd4766e7",
+  "notas": "Lista de precios: ordenar productos y arreglos de papelera. Mismo AppId: no toca la carpeta db del cliente."
 }
