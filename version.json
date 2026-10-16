@@ -1,6 +1,6 @@
 {
-  "version": "2.3.19",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.19/SolutionsCars_Setup_2.3.19.exe",
-  "sha256": "663f4fb05d74e370392d61aa2f2a851450ab4d1eb6853d22010e6bcbf413012a",
-  "notas": "Arreglos de backups: restaurar sin vaciar la base, recuperacion al iniciar, PostgreSQL, retencion por tipo, restore atomico y Drive. Mismo AppId: no toca la carpeta db del cliente."
+  "version": "2.3.20",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.20/SolutionsCars_Setup_2.3.20.exe",
+  "sha256": "d43fec13a2b5b30347fb60b5320e09208b58710abc9b63e58401e54c311235a5",
+  "notas": "Arranque onedir: corrige el error de python312.dll al abrir después de actualizar. Instancia única y arreglos de backups."
 }
