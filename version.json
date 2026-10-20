@@ -1,6 +1,6 @@
 {
-  "version": "2.3.20",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.20/SolutionsCars_Setup_2.3.20.exe",
-  "sha256": "d43fec13a2b5b30347fb60b5320e09208b58710abc9b63e58401e54c311235a5",
-  "notas": "Arranque onedir: corrige el error de python312.dll al abrir después de actualizar. Instancia única y arreglos de backups."
+  "version": "2.3.21",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.21/SolutionsCars_Setup_2.3.21.exe",
+  "sha256": "8cf9d386dbe0364621349e61897df58ad12f03670c687ac503e07d1cce5155b4",
+  "notas": "Instalador más liviano (solo Drive) y control de secretos en el build"
 }
