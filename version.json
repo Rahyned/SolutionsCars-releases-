@@ -1,6 +1,6 @@
 {
-  "version": "2.3.21",
-  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.21/SolutionsCars_Setup_2.3.21.exe",
-  "sha256": "8cf9d386dbe0364621349e61897df58ad12f03670c687ac503e07d1cce5155b4",
-  "notas": "Instalador más liviano (solo Drive) y control de secretos en el build"
+  "version": "2.3.22",
+  "url": "https://github.com/Rahyned/SolutionsCars-releases-/releases/download/v2.3.22/SolutionsCars_Setup_2.3.22.exe",
+  "sha256": "2b1aae010395011a4aa6e1354977f42a31f0f4fdd26462fd4af23104d8c3e530",
+  "notas": "Auditoría de errores ocultos (migraciones seguras con backup previo), nuevo ícono, montos con formato 1.500$ y remito sin validez fiscal"
 }
